@@ -1,0 +1,15 @@
+
+I shouldn't have committed that
+
+$ git revert HEAD  
+
+** Figure out revert to branch by sha ***
+
+I've made a mess of the working directory
+
+$ git reset --hard HEAD
+
+Committed too soon
+
+$ git add .
+$ git commit --amend -m "Whoops"

@@ -1,0 +1,53 @@
+
+Setting up Git for windows/.Net development
+
+.gitignore in root
+ * this also gets stored into Git
+ * create gitignore for.tmp add tmp file. commit. show diff between ls and ls-files
+
+Adding files
+ * ways to do
+ $ git add __
+ $ git add .
+ $ git add -i
+
+Branching
+ $ git branch x
+ $ git checkout -b x
+
+Show moving between branches and working dir changes.
+Show deleting a branch before merging
+ 
+Merging
+ * FF merge
+ * conflict resolution
+Delete branch after merge for difference.
+
+Rebase instead
+ * How it works / benefits for viz
+* Demo
+
+Adding a merge tool 
+* p4merge
+* KDiff
+
+
+Using stashes
+
+git stash xxx
+
+Remotes
+**two local repos
+
+Bisect and Blame
+-
+git bisect start
+git bisect bad
+git bisect good xxxxx
+
+
+Git tag
+
+tag a release
+checkout tag
+revert

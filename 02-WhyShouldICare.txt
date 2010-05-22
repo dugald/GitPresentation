@@ -1,0 +1,22 @@
+
+Branching IS important in prof sw development - talk about PGN dev.
+
+Reality :
+
+-Painful
+-Difficult
+
+Git is fast
+
+Git is reliable
+
+Git is easy
+
+Git is small.
+
+Git does what it needs to and gets out of the way
+
+Git makes branching extremely easy.
+
+This is great in that it helps you define a branching/merging strategy that fits with how you work, and doesn't revolve around the pain of doing these things.
+

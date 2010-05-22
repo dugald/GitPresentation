@@ -1,0 +1,13 @@
+
+Git is a lightweight, distributed source control system.
+Big difference from traditional client/server models of source control.
+
+How do we mean distributed?
+
+You have a full repo. Cue shitty on a plane scenario.
+You can then push/pull this repo, or indiv branches to other users.
+
+Commit as much as you like locally - no server pressure
+But, back up your machine.
+
+Allows for more varied workflows. Smaller groups. Can scale. Used for Linux kernel (1000s of committers)

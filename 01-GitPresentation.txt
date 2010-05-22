@@ -1,0 +1,20 @@
+
+Git : Enjoyable Source Control
+
+100-200 level talk.
+Designed to sow seeds for using and enjoying Git.
+
+*** Feel free to jump in ANYTIME with questions ***
+
+What is Git
+Why should I care about Git
+How do I get started using Git
+Going further with Git
+Fixing mistakes in Git
+GitHub
+Git Tools in Win/VS
+Great sources for more information
+
+
+dugald.wilson@gmail.com
+@DugaldWilson

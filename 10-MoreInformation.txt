@@ -1,0 +1,7 @@
+
+http://git-scm.com - the original site
+http://book.git-scm.com/ - Git Community Book
+http://www.gitcasts.com - 5-10min webcasts 
+http://www.tekpub.com/  Mastering Git series.
+
+Git help from cmd line

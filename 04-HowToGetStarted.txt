@@ -1,0 +1,87 @@
+Options for Git:
+* Mac - http://code.google.com/p/git-osx-installer/
+	Git thenOptions for Git:
+* Mac - http://code.google.com/p/git-osx-installer/
+	Git then runs from the shell
+* Windows
+	* CygWin - old, officially supported method for using Git
+			 - Cygwin clocks in at - a lot
+	* msysgit - http://code.google.com/p/msysgit ~130M
+	
+
+	
+	Set up initial repository
+	
+	$git init
+	
+	add file, commit - show Git requires identity and commit comment
+	
+	dive into .git dir - show fold struc. 1 .git folder per repo
+	
+	Customize Git
+	
+	$git config --global user.name "Dug Wilson"
+	$git config --global user.email "dugald.wilson@gmail.com"
+	
+	$git config --global color.status auto
+	$git config --global color.branch auto
+	$git config --global color.ui always
+	
+	Add files
+	
+	$git add .
+	
+	
+	commit
+	
+	git commit -m ""
+	
+	view status and log
+			
+    $git status
+
+    $git log
+	--since
+	--author
+	 runs from the shell
+* Windows
+	* CygWin - old, officially supported method for using Git
+			 - Cygwin clocks in at - a lot
+	* msysgit - http://code.google.com/p/msysgit ~130M
+	
+
+	
+	Set up initial repository
+	
+	$git init
+	
+	add file, commit - show Git requires identity and commit comment
+	
+	dive into .git dir - show fold struc. 1 .git folder per repo
+	
+	Customize Git
+	
+	$git config --global user.name "Dug Wilson"
+	$git config --global user.email "dugald.wilson@gmail.com"
+	
+	$git config --global color.status auto
+	$git config --global color.branch auto
+	$git config --global color.ui always
+	
+	Add files
+	
+	$git add .
+	
+	
+	commit
+	
+	git commit -m ""
+	
+	view status and log
+			
+    $git status
+
+    $git log
+	--since
+	--author
+	

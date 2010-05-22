@@ -1,0 +1,13 @@
+
+Visualization:
+
+Gitk built in w/Git / msysgit
+
+TortoiseGit - http://code.google.com/p/tortoisegit/
+
+Git Extensions -  http://code.google.com/p/gitextensions/
+			
+				toolkit for using Git on Windows. Provides a shell extension/ contextmenu for Windows Explorer. Also integrates with VS2005 or VS2008. Top-level git menu.
+				
+Git Achievements
+				

@@ -1,0 +1,9 @@
+
+GitHub - takes the place of central server architecture and backup for far less than it would cost to pay a sysadmin to spend 1hr on it a month.
+
+-fork queue
+--collab tool - fork a public repo. make changes - send pull request
+
+--Acct creation and use a breeze
+--Free acct - unlimited public repos
+-- lots of .Net projects on GitHub
