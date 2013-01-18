@@ -84,6 +84,3 @@ Options for Git:
     $git log
 	--since
 	--author
-	
-
-	$git lost
