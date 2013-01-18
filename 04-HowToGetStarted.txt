@@ -85,3 +85,5 @@ Options for Git:
 	--since
 	--author
 	
+
+	$git lost
